@@ -1,18 +1,24 @@
-## Getting Started
+#Projeto do desafio 
+##Diagramação de Classes do iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse é uma projeto de Iphone simples que representa um modelo de Iphone
 
-## Folder Structure
+## Compilação e Execução
 
-The workspace contains two folders by default, where:
+Para compilar e executar o projeto, siga estas etapas:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Certifique-se de que o [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-downloads.html) esteja instalado em seu sistema.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+2. Navegue até o diretório raiz do projeto no terminal.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+3. Compile os arquivos Java com o seguinte comando:
 
-## Dependency Management
+   ```sh
+   javac -d bin src/iphone/*.java src/Main.java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+##Execute o programa com o seguinte comando:
+
+java -cp bin Main
+
+#Contribuição
+Sinta-se à vontade para contribuir para este projeto, relatar problemas (issues) ou enviar solicitações de pull (pull requests) para aprimorá-lo.
