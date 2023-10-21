@@ -1,5 +1,5 @@
-#Projeto do desafio 
-##Diagramação de Classes do iPhone
+# Projeto do desafio 
+## Diagramação de Classes do iPhone
 
 Esse é uma projeto de Iphone simples que representa um modelo de Iphone
 
@@ -16,9 +16,10 @@ Para compilar e executar o projeto, siga estas etapas:
    ```sh
    javac -d bin src/iphone/*.java src/Main.java
 
-##Execute o programa com o seguinte comando:
+## Execute o programa com o seguinte comando:
 
 java -cp bin Main
 
-#Contribuição
+## Contribuição
+
 Sinta-se à vontade para contribuir para este projeto, relatar problemas (issues) ou enviar solicitações de pull (pull requests) para aprimorá-lo.
